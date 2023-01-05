@@ -1,0 +1,20 @@
+# HBGDBoraBill-
+Pbc/:!
+# Crie e libere pastas
+bin-debug /
+liberação bin /
+[ Oo ] bj /
+[ Bb ] em /
+
+# Outros arquivos e pastas
+.configurações /
+
+# executáveis
+* .swf
+* .ar
+* .ipa
+* .apk
+
+# Arquivos de projeto, ou seja, `.project`, `.actionScriptProperties` e `.flexProperties`
+# NÃO deve ser excluído, pois contém configurações do compilador e outras informações importantes
+# informações para Eclipse / Flash Builder.
